@@ -1,1 +1,1 @@
-# Sanake-game
+# Snake-Game using HTML, CSS and JavaScript
